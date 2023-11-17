@@ -1,0 +1,7 @@
+start 200
+mover r1,'=3'
+movem r1,x
+mover r2,'=2'
+ltorg
+x ds 1
+end
